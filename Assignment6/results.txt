@@ -1,0 +1,97 @@
+C# was first released in _____. | Your answer: vvgf | Correct: False
+The keyword to define a class in C# is _____. | Your answer: f | Correct: False
+What is the data type for whole numbers? | Your answer: Invalid input | Correct: False
+A method that does not return a value uses the keyword _____. | Your answer: gfggf | Correct: False
+The operator to perform division in C# is _____. | Your answer: f | Correct: False
+Which keyword creates an instance of a class? | Your answer: Invalid input | Correct: False
+In C#, a block of code is enclosed in _____. | Your answer: f | Correct: False
+The access modifier that makes a member accessible to all is? | Your answer: Invalid input | Correct: False
+The keyword to indicate a method can be overridden is _____. | Your answer: f | Correct: False
+A variable that belongs to a class rather than an instance is declared with? | Your answer: Invalid input | Correct: False
+What does CLR stand for? | Your answer: Invalid input | Correct: False
+Which keyword is used to inherit a class? | Your answer: Invalid input | Correct: False
+The default value of an int variable is _____. | Your answer: g | Correct: False
+C# is a _____-oriented programming language. | Your answer: f | Correct: False
+The keyword to exit a loop prematurely is? | Your answer: Invalid input | Correct: False
+Which data type is used for decimal numbers? | Your answer: Invalid input | Correct: False
+The operator to compare equality in C# is _____. | Your answer: g | Correct: False
+A C# program starts execution from which method? | Your answer: Invalid input | Correct: False
+The keyword to define a constant value is _____. | Your answer: g | Correct: False
+Properties in C# typically use which keywords? | Your answer: Invalid input | Correct: False
+What is the base class for all C# classes? | Your answer: Invalid input | Correct: False
+The keyword to handle exceptions is _____. | Your answer: g | Correct: False
+A collection of key-value pairs in C# is called a _____. | Your answer: f | Correct: False
+The operator to perform a logical AND is _____. | Your answer: f | Correct: False
+Which keyword defines an interface? | Your answer: Invalid input | Correct: False
+The keyword to indicate a method cannot be overridden is? | Your answer: Invalid input | Correct: False
+A single-line comment in C# starts with _____. | Your answer: f | Correct: False
+The data type for a single character is? | Your answer: Invalid input | Correct: False
+The keyword to pass a variable by reference is _____. | Your answer: fg | Correct: False
+Which loop executes at least once? | Your answer: Invalid input | Correct: False
+The operator to increment a variable by 1 is _____. | Your answer: g | Correct: False
+A C# namespace is defined with the keyword _____. | Your answer: g | Correct: False
+The keyword to throw an exception is? | Your answer: Invalid input | Correct: False
+Which type represents true or false? | Your answer: Invalid input | Correct: False
+The default access modifier for class members is _____. | Your answer: g | Correct: False
+A method that belongs to a class rather than an instance is? | Your answer: Invalid input | Correct: False
+The keyword to continue to the next iteration of a loop is _____. | Your answer: f | Correct: False
+Which collection is a dynamic array? | Your answer: Invalid input | Correct: False
+The operator to perform modulo division is _____. | Your answer: f | Correct: False
+A constructor in C# has the same name as the _____. | Your answer: g | Correct: False
+The keyword to define an abstract class is? | Your answer: Invalid input | Correct: False
+Which keyword allows multiple inheritance of interfaces? | Your answer: Invalid input | Correct: False
+The data type for text is _____. | Your answer: g | Correct: False
+The keyword to catch exceptions is? | Your answer: Invalid input | Correct: False
+Which operator checks if an object is of a specific type? | Your answer: Invalid input | Correct: False
+The keyword to define a property with only a getter is _____. | Your answer: f | Correct: False
+A C# event is declared with the keyword _____. | Your answer: f | Correct: False
+The default value of a bool variable is? | Your answer: Invalid input | Correct: False
+Which keyword defines a structure? | Your answer: Invalid input | Correct: False
+The operator to perform a logical OR is _____. | Your answer: Invalid input | Correct: False
+A method that can take a variable number of arguments uses the keyword? | Your answer: Invalid input | Correct: False
+The keyword to explicitly implement an interface member is _____. | Your answer: gf | Correct: False
+Which data type is a 32-bit floating-point? | Your answer: Invalid input | Correct: False
+The keyword to define an enumeration is _____. | Your answer: g | Correct: False
+A destructor in C# is prefixed with _____. | Your answer: f | Correct: False
+The operator to perform a logical NOT is? | Your answer: Invalid input | Correct: False
+Which collection is a first-in, first-out structure? | Your answer: Invalid input | Correct: False
+The keyword to indicate a class cannot be inherited is _____. | Your answer: g | Correct: False
+The data type for large integers is? | Your answer: Invalid input | Correct: False
+The keyword to define a nullable type uses _____. | Your answer: g | Correct: False
+A delegate in C# is a type-safe _____. | Your answer: f | Correct: False
+Which keyword is used for asynchronous methods? | Your answer: Invalid input | Correct: False
+The operator to concatenate strings is _____. | Your answer: f | Correct: False
+The keyword to wait for an asynchronous operation is? | Your answer: Invalid input | Correct: False
+Which type is immutable? | Your answer: Invalid input | Correct: False
+The keyword to define a read-only field is _____. | Your answer: f | Correct: False
+A jagged array is an array of? | Your answer: Invalid input | Correct: False
+The keyword to define a generic type is _____. | Your answer: f | Correct: False
+Which collection is a last-in, first-out structure? | Your answer: Invalid input | Correct: False
+The operator to check inequality is _____. | Your answer: ff | Correct: False
+The keyword to define a partial class is? | Your answer: Invalid input | Correct: False
+A C# attribute is enclosed in _____. | Your answer: f | Correct: False
+The data type for 16-bit integers is? | Your answer: Invalid input | Correct: False
+Which keyword is used to box a value type? | Your answer: Invalid input | Correct: False
+The operator to perform a bitwise AND is _____. | Your answer: f | Correct: False
+A tuple in C# is created with _____. | Your answer: f | Correct: False
+The keyword to define a record is _____. | Your answer: f | Correct: False
+Which data type is a 64-bit floating-point? | Your answer: Invalid input | Correct: False
+The keyword to explicitly cast a type is? | Your answer: Invalid input | Correct: False
+A lambda expression in C# uses the operator _____. | Your answer: f | Correct: False
+The keyword to define a using directive is _____. | Your answer: f | Correct: False
+Which type is used for currency values? | Your answer: Invalid input | Correct: False
+The operator to access a member of an object is _____. | Your answer: f | Correct: False
+A C# indexer is defined with the keyword? | Your answer: Invalid input | Correct: False
+The keyword to define an alias for a type is _____. | Your answer: f | Correct: False
+Which keyword enables LINQ queries? | Your answer: Invalid input | Correct: False
+The operator to perform a bitwise XOR is _____. | Your answer: ff | Correct: False
+A C# switch expression uses the operator? | Your answer: Invalid input | Correct: False
+The keyword to define an implicit conversion is _____. | Your answer: f | Correct: False
+Which collection is unordered and unique? | Your answer: Invalid input | Correct: False
+The operator to shift bits left is _____. | Your answer: f | Correct: False
+The keyword to define an explicit conversion is? | Your answer: Invalid input | Correct: False
+A C# file-scoped namespace uses _____. | Your answer: f | Correct: False
+The data type for 8-bit integers is? | Your answer: Invalid input | Correct: False
+Which keyword is used for pattern matching? | Your answer: Invalid input | Correct: False
+The operator to shift bits right is _____. | Your answer: f | Correct: False
+The keyword to define a local function is _____. | Your answer: f | Correct: False

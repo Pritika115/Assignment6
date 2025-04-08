@@ -1,0 +1,99 @@
+f
+C# was first released in _____.|2000
+The keyword to define a class in C# is _____.|class
+What is the data type for whole numbers?|int|string|double|int
+A method that does not return a value uses the keyword _____.|void
+The operator to perform division in C# is _____.|/
+Which keyword creates an instance of a class?|new|create|init|new
+In C#, a block of code is enclosed in _____.|{}
+The access modifier that makes a member accessible to all is?|public|private|protected|public
+The keyword to indicate a method can be overridden is _____.|virtual
+A variable that belongs to a class rather than an instance is declared with?|static|instance|local|static
+What does CLR stand for?|Common Language Runtime|Common Loop Resource|Central Language Repository|Common Language Runtime
+Which keyword is used to inherit a class?|base|extends|inherits|base
+The default value of an int variable is _____.|0
+C# is a _____-oriented programming language.|object
+The keyword to exit a loop prematurely is?|break|exit|stop|break
+Which data type is used for decimal numbers?|double|int|string|double
+The operator to compare equality in C# is _____.|==
+A C# program starts execution from which method?|Main|Start|Run|Main
+The keyword to define a constant value is _____.|const
+Properties in C# typically use which keywords?|get|set|read|write|get|set
+What is the base class for all C# classes?|Object|Class|Base|Object
+The keyword to handle exceptions is _____.|try
+A collection of key-value pairs in C# is called a _____.|Dictionary
+The operator to perform a logical AND is _____.|&&
+Which keyword defines an interface?|interface|class|struct|interface
+The keyword to indicate a method cannot be overridden is?|sealed|final|locked|sealed
+A single-line comment in C# starts with _____.|//
+The data type for a single character is?|char|int|string|char
+The keyword to pass a variable by reference is _____.|ref
+Which loop executes at least once?|do-while|for|while|do-while
+The operator to increment a variable by 1 is _____.|++
+A C# namespace is defined with the keyword _____.|namespace
+The keyword to throw an exception is?|throw|raise|error|throw
+Which type represents true or false?|bool|int|char|bool
+The default access modifier for class members is _____.|private
+A method that belongs to a class rather than an instance is?|static|instance|dynamic|static
+The keyword to continue to the next iteration of a loop is _____.|continue
+Which collection is a dynamic array?|List|Array|Dictionary|List
+The operator to perform modulo division is _____.|%
+A constructor in C# has the same name as the _____.|class
+The keyword to define an abstract class is?|abstract|virtual|base|abstract
+Which keyword allows multiple inheritance of interfaces?|interface|extends|implements|interface
+The data type for text is _____.|string
+The keyword to catch exceptions is?|catch|grab|trap|catch
+Which operator checks if an object is of a specific type?|is|as|typeof|is
+The keyword to define a property with only a getter is _____.|get
+A C# event is declared with the keyword _____.|event
+The default value of a bool variable is?|false|true|null|false
+Which keyword defines a structure?|struct|class|interface|struct
+The operator to perform a logical OR is _____.|||
+A method that can take a variable number of arguments uses the keyword?|params|args|var|params
+The keyword to explicitly implement an interface member is _____.|interface
+Which data type is a 32-bit floating-point?|float|double|int|float
+The keyword to define an enumeration is _____.|enum
+A destructor in C# is prefixed with _____.|~
+The operator to perform a logical NOT is?|!|~|^|!
+Which collection is a first-in, first-out structure?|Queue|Stack|List|Queue
+The keyword to indicate a class cannot be inherited is _____.|sealed
+The data type for large integers is?|long|int|short|long
+The keyword to define a nullable type uses _____.|?
+A delegate in C# is a type-safe _____.|function pointer
+Which keyword is used for asynchronous methods?|async|await|thread|async
+The operator to concatenate strings is _____.|+
+The keyword to wait for an asynchronous operation is?|await|pause|hold|await
+Which type is immutable?|string|int|List|string
+The keyword to define a read-only field is _____.|readonly
+A jagged array is an array of?|arrays|lists|objects|arrays
+The keyword to define a generic type is _____.|T
+Which collection is a last-in, first-out structure?|Stack|Queue|List|Stack
+The operator to check inequality is _____.|!=
+The keyword to define a partial class is?|partial|split|fragment|partial
+A C# attribute is enclosed in _____.|[]
+The data type for 16-bit integers is?|short|int|byte|short
+Which keyword is used to box a value type?|implicit|cast|box|implicit
+The operator to perform a bitwise AND is _____.|&
+A tuple in C# is created with _____.|()
+The keyword to define a record is _____.|record
+Which data type is a 64-bit floating-point?|double|float|int|double
+The keyword to explicitly cast a type is?|cast|convert|type|cast
+The operator to perform a bitwise OR is _____.||
+A lambda expression in C# uses the operator _____.|=> 
+The keyword to define a using directive is _____.|using
+Which type is used for currency values?|decimal|int|double|decimal
+The operator to access a member of an object is _____.|.
+A C# indexer is defined with the keyword?|this|index|key|this
+The keyword to define an alias for a type is _____.|using
+Which keyword enables LINQ queries?|from|select|where|from
+The operator to perform a bitwise XOR is _____.|^
+A C# switch expression uses the operator?|=> |==|!=|=> 
+The keyword to define an implicit conversion is _____.|implicit
+Which collection is unordered and unique?|HashSet|List|Dictionary|HashSet
+The operator to shift bits left is _____.|<<
+The keyword to define an explicit conversion is?|explicit|implicit|cast|explicit
+A C# file-scoped namespace uses _____.|;
+The data type for 8-bit integers is?|byte|short|int|byte
+Which keyword is used for pattern matching?|is|as|switch|is
+The operator to shift bits right is _____.|>>
+The keyword to define a local function is _____.|void
